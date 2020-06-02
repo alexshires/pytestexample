@@ -6,8 +6,8 @@ import json
 
 import pytest
 
-from testdemo.example import ClassToTest
-from testdemo.example import function_to_test
+from demopytest.example import ClassToTest
+from demopytest.example import function_to_test
 
 DATA_FILE = "test/data/data.json"
 
